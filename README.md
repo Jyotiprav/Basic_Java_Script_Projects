@@ -1,1 +1,5 @@
-# Basic_Java_Script_Projects
+# Basic Java Script Projects
+
+## Project Name: Navigation bar in javascript
+
+![](navbarinjs.gif)
