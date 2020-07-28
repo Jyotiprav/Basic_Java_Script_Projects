@@ -4,6 +4,6 @@
 
 ![](navbarinjs.gif)
 
-## Project Name: Simple click event demo if changing background color 
+## Project Name: Simple click event demo of changing background color 
 
 ![](clickeventinjs.gif)
