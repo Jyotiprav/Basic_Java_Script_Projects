@@ -1,0 +1,21 @@
+body{
+    min-height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bgcolorBtn{
+    padding: 14px;
+    border: 3px solid white;
+    border-radius: 7px;
+    color: white;
+    background-color:#6ebfb5 ;
+    font-size: 16px;
+    cursor: pointer;
+    outline:none;
+}
+
+.bgcolorBtn:hover{
+    background-color: black;
+}
